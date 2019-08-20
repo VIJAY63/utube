@@ -8,13 +8,13 @@
 
 ### Contents
 
-* [Info](https://github.com/odysseusmax/utube#info)
-* [Libraries Used](https://github.com/odysseusmax/utube#libraries-used)
-* [Setup](https://github.com/odysseusmax/utube#setup)
-* [Status](https://github.com/odysseusmax/utube#status)
-* [Special Notes](https://github.com/odysseusmax/utube#special-notes)
-* [Screenshots](https://github.com/odysseusmax/utube#screenshots)
-* [Contact](https://github.com/odysseusmax/utube#contact)
+* [Info](https://github.com/Vijay63/utube#info)
+* [Libraries Used](https://github.com/Vijay63/utube#libraries-used)
+* [Setup](https://github.com/Vijay63/utube#setup)
+* [Status](https://github.com/Vijay63/utube#status)
+* [Special Notes](https://github.com/Vijay63/utube#special-notes)
+* [Screenshots](https://github.com/Vijay63/utube#screenshots)
+* [Contact](https://github.com/Vijay63/utube#contact)
 
 ### Info
 
@@ -38,7 +38,7 @@ This is a simple hobby project which i was really curious about to impliment. Th
 **Clone and setup virtual environment**
 
 ``` bash
-git clone https://github.com/odysseusmax/utube.git
+git clone https://github.com/Vijay63/utube.git
 
 cd utube
 
@@ -79,7 +79,7 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 
 **Or the easy way of directly deploying to heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/odysseusmax/utube/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijay63/utube/tree/master)
 
 
 
@@ -113,4 +113,4 @@ This project is actively maintained and will continue so until I'm tired of it.
 ### Contact
 
 Share the FeedBack and Suggestions with me.
-You can contact me [Here](https://telegram.dog/odysseusmax "Contact me")
+You can contact me [Here](https://telegram.dog/ytuplodbot "Contact me")
